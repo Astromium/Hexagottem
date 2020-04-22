@@ -3,6 +3,6 @@
 
 ### Check out the demo [here](https://astromium.github.io/Hexagottem)
 
-![game image](./hexagottem (1))
+![game image](https://github.com/Astromium/Hexagottem/blob/master/hexagottem (1).png)
 
 
